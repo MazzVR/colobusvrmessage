@@ -1,2 +1,2 @@
-I am aware of how laggy it is inside of the shop area i am fixing it.
+Fix for lag is now out, restart your vrs and update your game to V27/9 if it says v26 then update.
 https://discord.gg/KXWBV6uTCw
