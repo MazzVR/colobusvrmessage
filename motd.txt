@@ -1,2 +1,1 @@
-I think the fps inside of shop should be better now, if your game version is not on V30 restart your headsets and update.
-You can find the game version on the update board, also mods axes should be fixed now.
+Update your games to v31 for better fps
