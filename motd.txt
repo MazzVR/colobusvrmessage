@@ -1,1 +1,1 @@
-Anyone caught glitching out the map will get a 5hr ban, im also building the fix right now.
+I will be releasing a fix for the flag and hitsounds not always playing on trigger enter, should be out in the next hour or less
