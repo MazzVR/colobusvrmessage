@@ -1,1 +1,3 @@
-I will be releasing a fix for the flag and hitsounds not always playing on trigger enter, should be out in the next hour or less
+Alright the update is now out, fixing the racing flag and hitsounds.
+Looks like one of the colobuses cleaned up the storage room but there is a injured one near the tunnel. 
+And something is there...
