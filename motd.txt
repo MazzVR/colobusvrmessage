@@ -1,3 +1,5 @@
-Please note that the 3rd person camera is bugged, dont enable as it will bug your game.
+Huge update is now out!! update to version V61
+
+Also private rooms are a bit broken, you can still join but it will display your typing code where it says option 1 too disconnect, so make sure to spam backspace and then type your code. Enjoy everyone :) !
 
 discord.gg/colobus
