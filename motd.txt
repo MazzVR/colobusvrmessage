@@ -2,4 +2,6 @@ Huge update is now out!! update to version V61
 
 Also private rooms are a bit broken, you can still join but it will display your typing code where it says option 1 too disconnect, so make sure to spam backspace and then type your code. Enjoy everyone :) !
 
+Also if you cannot join a public that means its full, when i save enough ill be able to pay for multiple different public servers!
+
 discord.gg/colobus
