@@ -1,5 +1,3 @@
-Shop Browser/lock is now in shop, also added tag.
-
-It is still in beta so may be buggy, enjoy.
+Small update is out, not too much.
 
 discord.gg/colobus
