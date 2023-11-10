@@ -1,4 +1,4 @@
-New customizable colobus pet for 100 bananas, might be glitchy so report the bugs in the discord. And if you get out the map and go to the mod room there is a secret suprise for you. Also fixed the weird audio while in shop.
+Fix an issue with little colobus pet, also fixed playfab mod cosmetics :)
 
 discord.gg/colobus
 :)
